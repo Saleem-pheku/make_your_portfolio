@@ -9,7 +9,9 @@ CONTRIBUTION GUIDELINES:
   - Add your name and the name of your project directory in the contributors list and raise a PR.
   - Please make a seperate branch of your PR if you are having more than 3 directories in your project.
   - Please create a seperate directory for your project and do not change other's code.
-  - Make sure you create a seperate readme file that must mention your details and a short description of your project with tech stack
+  - Make sure you create a seperate readme file that must mention your details and a short description of your project with tech stack.
+  - Please avoid plagiarism make something out of your own creativity
+  - If you are making a mobile app using react native, kotlin, flutter etc please upload an of arm64 release(not fat release).
   - avoid uploading files instead push from CLI.
   - please add necessary comments in your file.
   - Write a clear and valid commit message.
