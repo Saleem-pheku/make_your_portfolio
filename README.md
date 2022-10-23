@@ -6,6 +6,7 @@ PLEASE READ THE CONTRIBUTION GUIDE
 `
 
 CONTRIBUTION GUIDELINES: 
+  - Add your name and the name of your project directory in the contributors list and raise a PR.
   - Please make a seperate branch of your PR if you are having more than 3 directories in your project.
   - Please create a seperate directory for your project and do not change other's code.
   - Make sure you create a seperate readme file that must mention your details and a short description of your project with tech stack
